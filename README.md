@@ -11,6 +11,7 @@
 
 </br> Mod Usage:
 
+- For use on game version 1.1.1 I have not tested this collection on 1.1.0
 - Resolution mods: For now, use 1008p resolution mod if you find issues with 1026p usage. 1008p is the safe one currently
 <br>
 
