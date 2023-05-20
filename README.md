@@ -12,8 +12,10 @@
 </br> Mod Usage:
 
 - Resolution mods: For now, use 1008p resolution mod if you find issues with 1026p usage. 1008p is the safe one currently
+<br>
 
 Other Suggested Mods:
+
 [Xbox/SteamDeck UI](https://gamebanana.com/mods/443354) by Alerion921
 
 [Dualsense/Dualshock UI](https://gamebanana.com/mods/443201) by Alerion921
