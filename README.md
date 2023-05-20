@@ -27,6 +27,7 @@ Mod Sources:
 [Mod Direct Links](https://gbatemp.net/download/loz-tears-of-the-kingdom-fps-static-fps-and-visual-fixes-patch-collection.37996/) by somerandompeople
 
 [Another Mod Repository](https://github.com/HolographicWings/TOTK-Mods-collection) by HolographicWings
+
 <br>
 
 Mod Credit:
